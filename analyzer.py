@@ -11,7 +11,7 @@ unique_words = {}
 spam_words_count  = 0
 other_words_count = 0
 
-# Количество слов в классах
+# Количество текстов в классах
 spam_texts_count  = 0
 other_texts_count = 0
 
