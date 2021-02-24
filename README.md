@@ -9,6 +9,6 @@
 + (+) простота в реализации и высокая скорость выполнения;
 + (-) очень просто обмануть (добавив "хорошие" слова в сообщение), так что его стоит использовать в связке с другими алгоритмами.
 
-### Скриншоты:
+## Скриншоты:
 ![Screenshot](https://sun9-61.userapi.com/impg/hnbhtxcwwttlGVtbpOzOaZjF95VeWLgNmJumDw/79tJbzRxvYY.jpg?size=1121x694&quality=96&proxy=1&sign=1680593a2810388f67b32a2c241b0f64&type=album)
 ![Screenshot](https://sun9-34.userapi.com/impg/pcyGFgsZ9yiVJWcHdAVnJmPy_Ms1isXH0UeJvA/Yn3LuRKhZjU.jpg?size=1121x694&quality=96&proxy=1&sign=6f3753a8786e9a6472b176db2f224bdf&type=album)
